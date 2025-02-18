@@ -2,14 +2,20 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+ 
 -->
 
-# Introduction to GitHub
+# Introduction to mio!
 
-_Get started using GitHub in less than an hour._
+
+
+
+_Get to know an absolute noob  whose trying its best to learn and create cool things! :heart_hands: :stars:_
+
+
+(https://github.com/user-attachments/assets/55f6342b-f02b-4a35-a1a5-17839cc91ef9)
+(me btw)
+
 
 </header>
 
@@ -21,22 +27,18 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+## HOW did it happen
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_I don't really know what am I supossed 2 do that's why I am doing this lol_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+**Career???**: I created this GitHub acc because I just started CS in a prestigious college in my country, I did halfway of a HTML course and thought I could live with that. Clearly I can't, but I lack the discipline to actually learn more and not just watch videos abt this :crying_cat_face: 
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+**What is my goal?**: I'd like to learn how to code a videogame, apps or anything. I just want to create things for people who can enjoy them at their fullest :) 
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+**Do u hate yourself 4 what you just did?**: If you mean just throwing myself into a career with no knowledge and hoping for the best to happen? a little bit... m(_ _)m
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+That is pretty much a nice introduction of this acc, and hopefully no classmate will ever find this :D 
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-![profile-readme-example](/images/profile-readme-example.png)
 
 ### :keyboard: Activity: Your first branch
 
